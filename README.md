@@ -37,15 +37,15 @@ TODO: typical Callback Patterns
 
 ## Detection and Prediction
 ### Detection for Malcious Structures
-- Baseline: FlowDroid()
+- Baseline: FlowDroid(Arzt S, Rasthofer S, Fritz C, et al. Flowdroid: Precise context, flow, field, object-sensitive and lifecycle-aware taint analysis for android apps[J]. Acm Sigplan Notices, 2014, 49(6): 259-269.)
 - Dataset:
 - Raw Results:
 ### Detection for Resource Leak
-- Baseline: Relda2()
+- Baseline: Relda2(Wu T, Liu J, Deng X, et al. Relda2: an effective static analysis tool for resource leak detection in Android apps[C]. Proceedings of the 31st IEEE/ACM International Conference on Automated Software Engineering. ACM, 2016: 762-767.)
 - Dataset:
 - Raw Results:
 ### Prediction for Anomlies of Callbacks
-- Baseline: DEvA()
+- Baseline: DEvA(Safi G, Shahbazian A, Halfond W G J, et al. Detecting event anomalies in event-based systems[C]//Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering. ACM, 2015: 25-37.)
 - Dataset:
 - Raw Results:
 
