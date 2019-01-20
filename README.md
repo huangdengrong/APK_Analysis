@@ -6,8 +6,11 @@ The event-driven mechanism of mobile applications makes specific code defects an
 
 ## Subjects
 ### AMD malware 
+TODO:Examples
 ### F-Droid
+TODO:Examples
 ### Apps from Markets (Reverse Engineering)
+TODO:Examples
 
 ## Extraction of Callback Elements 
 ### Callback Datasets
@@ -34,15 +37,15 @@ TODO: typical Callback Patterns
 
 ## Detection and Prediction
 ### Detection for Malcious Structures
-Baseline: FlowDroid()
-Dataset:
-Raw Results:
+- Baseline: FlowDroid()
+- Dataset:
+- Raw Results:
 ### Detection for Resource Leak
-Baseline: Relda2()
-Dataset:
-Raw Results:
+- Baseline: Relda2()
+- Dataset:
+- Raw Results:
 ### Prediction for Anomlies of Callbacks
-Baseline: DEvA()
-Dataset:
-Raw Results:
+- Baseline: DEvA()
+- Dataset:
+- Raw Results:
 
