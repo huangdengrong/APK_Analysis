@@ -7,11 +7,11 @@ The event-driven mechanism of mobile applications makes specific code defects an
 ## Subjects
 ### AMD malware 
 
-https://github.com/huangdengrong/My_APK_Analysis/tree/master/AMD_malware
+https://github.com/huangdengrong/My_APK_Analysis_/tree/master/AMD_malware
 ### F-Droid
-https://github.com/huangdengrong/My_APK_Analysis/tree/master/F-Droid
+https://github.com/huangdengrong/My_APK_Analysis_/tree/master/F-Droid
 ### Apps from Markets (Reverse Engineering)
-https://github.com/huangdengrong/My_APK_Analysis/tree/master/Apps_from_Markets
+https://github.com/huangdengrong/My_APK_Analysis_/tree/master/Apps_from_Markets
 
 ## Extraction of Callback Elements 
 ### Callback Datasets
@@ -24,16 +24,16 @@ TODO:hypelink to the table
 
 ## Embedding
 ### source code
-https://github.com/huangdengrong/My_APK_Analysis/tree/master/New_Final_APK_Project
+https://github.com/huangdengrong/My_APK_Analysis_/tree/master/New_Final_APK_Project
 ### Embedded Vectors
 TODO:hypelink to Embedded Vectors
 
 ## Analysis
 ### Similarities
-https://github.com/huangdengrong/My_APK_Analysis/blob/master/simility_analysis/sim_vector_.txt
-https://github.com/huangdengrong/My_APK_Analysis/blob/master/simility_analysis/sim_vector.xlsx
+https://github.com/huangdengrong/My_APK_Analysis/blob/master/simility_analysis_/sim_vector_.txt
+https://github.com/huangdengrong/My_APK_Analysis/blob/master/simility_analysis_/sim_vector.xlsx
 ### Analogies
-https://github.com/huangdengrong/My_APK_Analysis/blob/master/simility_analysis/Analogy_Analisis.txt
+https://github.com/huangdengrong/My_APK_Analysis/blob/master/simility_analysis_/Analogy_Analisis.txt
 ### Callback Patterns
 TODO: typical Callback Patterns
 
