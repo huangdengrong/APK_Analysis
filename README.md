@@ -30,10 +30,10 @@ TODO:hypelink to Embedded Vectors
 
 ## Analysis
 ### Similarities
-https://github.com/huangdengrong/My_APK_Analysis/blob/master/simility_analysis_/sim_vector_.txt
-https://github.com/huangdengrong/My_APK_Analysis/blob/master/simility_analysis_/sim_vector.xlsx
+https://github.com/huangdengrong/My_APK_Analysis_/blob/master/simility_analysis/sim_vector_.txt
+https://github.com/huangdengrong/My_APK_Analysis_/blob/master/simility_analysis/sim_vector.xlsx
 ### Analogies
-https://github.com/huangdengrong/My_APK_Analysis/blob/master/simility_analysis_/Analogy_Analisis.txt
+https://github.com/huangdengrong/My_APK_Analysis_/blob/master/simility_analysis/Analogy_Analisis.txt
 ### Callback Patterns
 TODO: typical Callback Patterns
 
