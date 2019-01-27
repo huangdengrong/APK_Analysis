@@ -6,16 +6,16 @@ The event-driven mechanism of mobile applications makes specific code defects an
 
 ## Subjects
 ### AMD malware 
-TODO:Examples
+
 https://github.com/huangdengrong/My_APK_Analysis/tree/master/AMD_malware
 ### F-Droid
-TODO:Examples
+https://github.com/huangdengrong/My_APK_Analysis/tree/master/F-Droid
 ### Apps from Markets (Reverse Engineering)
-TODO:Examples
+https://github.com/huangdengrong/My_APK_Analysis/tree/master/Apps_from_Markets
 
 ## Extraction of Callback Elements 
 ### Callback Datasets
-TODO:hypelink to the table
+
 ### Related Elements
 TODO:hypelink to the table
 
@@ -24,15 +24,16 @@ TODO:hypelink to the table
 
 ## Embedding
 ### source code
-TODO:hypelink to source code
+https://github.com/huangdengrong/My_APK_Analysis/tree/master/New_Final_APK_Project
 ### Embedded Vectors
 TODO:hypelink to Embedded Vectors
 
 ## Analysis
 ### Similarities
-TODO: typical similarity groups
+https://github.com/huangdengrong/My_APK_Analysis/blob/master/simility_analysis/sim_vector_.txt
+https://github.com/huangdengrong/My_APK_Analysis/blob/master/simility_analysis/sim_vector.xlsx
 ### Analogies
-TODO: typical Analogies groups
+https://github.com/huangdengrong/My_APK_Analysis/blob/master/simility_analysis/Analogy_Analisis.txt
 ### Callback Patterns
 TODO: typical Callback Patterns
 
