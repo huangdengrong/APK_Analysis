@@ -7,6 +7,7 @@ The event-driven mechanism of mobile applications makes specific code defects an
 ## Subjects
 ### AMD malware 
 TODO:Examples
+https://github.com/huangdengrong/My_APK_Analysis/tree/master/AMD_malware
 ### F-Droid
 TODO:Examples
 ### Apps from Markets (Reverse Engineering)
