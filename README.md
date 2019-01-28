@@ -26,7 +26,7 @@ TODO:hypelink to the table
 ### source code
 https://github.com/huangdengrong/My_APK_Analysis_/tree/master/New_Final_APK_Project
 ### Embedded Vectors
-TODO:hypelink to Embedded Vectors
+https://github.com/huangdengrong/My_APK_Analysis_/blob/master/simility_analysis/my_apk_vector1.csv
 
 ## Analysis
 ### Similarities
