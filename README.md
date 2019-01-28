@@ -35,8 +35,8 @@ https://github.com/huangdengrong/My_APK_Analysis_/blob/master/simility_analysis/
 ### Analogies
 https://github.com/huangdengrong/My_APK_Analysis_/blob/master/simility_analysis/Analogy_Analisis.txt
 ### Callback Patterns
-https://github.com/huangdengrong/My_APK_Analysis_/tree/master/simility_analysis/model/amd_model
-https://github.com/huangdengrong/My_APK_Analysis_/tree/master/simility_analysis/model/no_amd_model
+https://github.com/huangdengrong/My_APK_Analysis_/tree/master/model/amd_model
+https://github.com/huangdengrong/My_APK_Analysis_/tree/master/model/no_amd_model
 
 ## Detection and Prediction
 ### Detection for Malcious Structures
