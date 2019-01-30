@@ -6,11 +6,13 @@ The event-driven mechanism of mobile applications makes specific code defects an
 
 ## Subjects
 ### AMD malware 
-
+(Part of Samples)
 https://github.com/huangdengrong/My_APK_Analysis_/tree/master/AMD_malware
 ### F-Droid
+(Part of Samples)
 https://github.com/huangdengrong/My_APK_Analysis_/tree/master/F-Droid
 ### Apps from Markets (Reverse Engineering)
+(Part of Samples)
 https://github.com/huangdengrong/My_APK_Analysis_/tree/master/Apps_from_Markets
 
 ## Extraction of Callback Elements 
@@ -41,16 +43,16 @@ https://github.com/huangdengrong/My_APK_Analysis_/tree/master/model/no_amd_model
 ## Detection and Prediction
 ### Detection for Malicious Structures
 - Baseline: FlowDroid(<u>Arzt S, Rasthofer S, Fritz C, et al. Flowdroid: Precise context, flow, field, object-sensitive and lifecycle-aware taint analysis for android apps[J]. Acm Sigplan Notices, 2014, 49(6): 259-269.</u>)
-- Dataset:
+- Dataset Description:
 - Raw Results:
 
 ### Detection for Resource Leak
 - Baseline: Relda2(<u>Wu T, Liu J, Deng X, et al. Relda2: an effective static analysis tool for resource leak detection in Android apps[C]. Proceedings of the 31st IEEE/ACM International Conference on Automated Software Engineering. ACM, 2016: 762-767. </u>)
-- Dataset: https://github.com/huangdengrong/APK_Analysis/blob/master/dataset_resource_leak.pdf
+- Dataset Description: https://github.com/huangdengrong/APK_Analysis/blob/master/dataset_resource_leak.pdf
 - Raw Results:
 
 ### Prediction for Anomlies of Callbacks
 - Baseline: DEvA(<u>Safi G, Shahbazian A, Halfond W G J, et al. Detecting event anomalies in event-based systems[C]//Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering. ACM, 2015: 25-37.</u>)
-- Dataset:
+- Dataset Description
 - Raw Results:
 
