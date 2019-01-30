@@ -17,10 +17,10 @@ https://github.com/huangdengrong/My_APK_Analysis_/tree/master/Apps_from_Markets
 ### Callback Datasets
 https://github.com/huangdengrong/My_APK_Analysis_/blob/master/simility_analysis/callback_api.csv
 ### Related Elements
-TODO:hypelink to the table
+https://github.com/huangdengrong/APK_Analysis/blob/master/Table_related_elements.pdf
 
 ## Middle Extraction
-TODO:hypelink to the table
+https://github.com/huangdengrong/APK_Analysis/blob/master/Table_middle_abstraction.pdf
 
 ## Embedding
 ### source code
