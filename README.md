@@ -49,7 +49,7 @@ https://github.com/huangdengrong/My_APK_Analysis_/tree/master/model/no_amd_model
 ### Detection for Resource Leak
 - Baseline: Relda2(<u>Wu T, Liu J, Deng X, et al. Relda2: an effective static analysis tool for resource leak detection in Android apps[C]. Proceedings of the 31st IEEE/ACM International Conference on Automated Software Engineering. ACM, 2016: 762-767. </u>)
 - Dataset Description: https://github.com/huangdengrong/APK_Analysis/blob/master/dataset_resource_leak.pdf
-- Raw Results:
+- Raw Results:https://github.com/huangdengrong/APK_Analysis/blob/master/result_resourceleak1.jpg
 
 ### Prediction for Anomlies of Callbacks
 - Baseline: DEvA(<u>Safi G, Shahbazian A, Halfond W G J, et al. Detecting event anomalies in event-based systems[C]//Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering. ACM, 2015: 25-37.</u>)
