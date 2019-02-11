@@ -44,7 +44,7 @@ https://github.com/huangdengrong/My_APK_Analysis_/tree/master/model/no_amd_model
 ### Detection for Malicious Structures
 - Baseline: FlowDroid(<u>Arzt S, Rasthofer S, Fritz C, et al. Flowdroid: Precise context, flow, field, object-sensitive and lifecycle-aware taint analysis for android apps[J]. Acm Sigplan Notices, 2014, 49(6): 259-269.</u>)
 - Dataset Description:
-- Raw Results:
+- Raw Results:https://github.com/huangdengrong/APK_Analysis/blob/master/result_malicious_structure_30.pdf
 
 ### Detection for Resource Leak
 - Baseline: Relda2(<u>Wu T, Liu J, Deng X, et al. Relda2: an effective static analysis tool for resource leak detection in Android apps[C]. Proceedings of the 31st IEEE/ACM International Conference on Automated Software Engineering. ACM, 2016: 762-767. </u>)
