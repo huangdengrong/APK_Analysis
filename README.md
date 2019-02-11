@@ -52,7 +52,9 @@ https://github.com/huangdengrong/My_APK_Analysis_/tree/master/model/no_amd_model
 - Raw Results:https://github.com/huangdengrong/APK_Analysis/blob/master/result_resourceleak1.jpg
 
 ### Prediction for Anomlies of Callbacks
-- Baseline: DEvA(<u>Safi G, Shahbazian A, Halfond W G J, et al. Detecting event anomalies in event-based systems[C]//Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering. ACM, 2015: 25-37.</u>)
+- Baseline: 
+--DEvA(<u>Safi G, Shahbazian A, Halfond W G J, et al. Detecting event anomalies in event-based systems[C]//Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering. ACM, 2015: 25-37.</u>)
+--Event-racer(Bielik P, Raychev V, Vechev M. Scalable race detection for android applications[C]//ACM SIGPLAN Notices. ACM, 2015, 50(10): 332-348. https://eventracer.org/android/#traces)
 - Dataset Description: https://github.com/huangdengrong/APK_Analysis/blob/master/dataset_anomalies.jpg
 - Raw Results:https://github.com/huangdengrong/APK_Analysis/blob/master/result_anomalies.jpg
 
