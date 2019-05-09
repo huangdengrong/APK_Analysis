@@ -1,4 +1,4 @@
-# EAAC-Embedding Based Analyzer for APK Callbacks
+# Callback2Vec-Embedding Based Analyzer for APK Callbacks
 
 
 ## Introduction
